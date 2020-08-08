@@ -24,7 +24,7 @@ DeepHyper is already installed in Theta and can be directly loaded as a module a
 .. note::
     You might put
     ``module load miniconda-3`` in your ``~/.bashrc`` if you want to use
-    *DeepHyper* in all new session.
+    *DeepHyper* in all new sessions.
 
 Developer installation
 ======================
